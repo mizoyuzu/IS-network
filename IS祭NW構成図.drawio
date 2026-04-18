@@ -62,7 +62,7 @@
           <mxGeometry height="60" width="120" x="560" y="380" as="geometry" />
         </mxCell>
         <mxCell id="fn8eFHxvwu5Y4DV0IQaD-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;CAT6/6A&lt;/div&gt;&lt;div&gt;新規購入予定&lt;/div&gt;&lt;div&gt;長さ未定&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="110" x="460" y="530" as="geometry" />
+          <mxGeometry height="100" width="110" x="460" y="510" as="geometry" />
         </mxCell>
         <mxCell id="n761MLVwASxF23iQf95s-3" edge="1" parent="1" source="fn8eFHxvwu5Y4DV0IQaD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 4 1 4;" target="n761MLVwASxF23iQf95s-2" value="">
           <mxGeometry relative="1" as="geometry" />
