@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="ページ-1" id="2jIfwE_WvYB9KphAebi7">
-    <mxGraphModel dx="1694" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1579" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="fn8eFHxvwu5Y4DV0IQaD-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="iPhone (CS左)" vertex="1">
           <mxGeometry height="40" width="120" x="40" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="fn8eFHxvwu5Y4DV0IQaD-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;iPhone&lt;/div&gt;&lt;div&gt;機種: 14Pro以上、無印15以上&lt;/div&gt;&lt;div&gt;使用カメラアプリ: LM-Cams&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;コーデック:&lt;/div&gt;&lt;div&gt;NDI HX 2(遅延150-200ms)&lt;/div&gt;&lt;div&gt;SRT(遅延300-500ms 任意)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;可能であればタリー(要確認)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;LiveMedia様と協議予定&lt;/div&gt;" vertex="1">
+        <mxCell id="fn8eFHxvwu5Y4DV0IQaD-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;iPhone&lt;/div&gt;&lt;div&gt;機種: 14Pro以上、無印15以上&lt;/div&gt;&lt;div&gt;使用カメラアプリ: LM-Cams&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;コーデック:&lt;/div&gt;&lt;div&gt;&lt;b&gt;NDI HX 2(遅延150-200ms)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;SRT(遅延300-500ms 任意)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;可能であればタリー(要確認)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;LiveMedia様と協議予定&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="190" width="200" x="40" y="600" as="geometry" />
         </mxCell>
         <mxCell id="fn8eFHxvwu5Y4DV0IQaD-12" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=2;dashed=1;startSize=11;" value="">
@@ -52,7 +52,7 @@
         <mxCell id="fn8eFHxvwu5Y4DV0IQaD-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;YAMAHA&lt;/div&gt;&lt;div&gt;WLX322&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="300" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="fn8eFHxvwu5Y4DV0IQaD-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;機種未定&lt;/div&gt;&lt;div&gt;設置場所未定&lt;/div&gt;&lt;div&gt;電源供給未定&lt;br&gt;全て協議予定&lt;/div&gt;&lt;div&gt;(PoEするなら要スイッチ)&lt;/div&gt;" vertex="1">
+        <mxCell id="fn8eFHxvwu5Y4DV0IQaD-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;機種未定&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;設置場所未定&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;電源供給未定&lt;/b&gt;&lt;br&gt;全て協議予定&lt;/div&gt;&lt;div&gt;(PoEするなら要スイッチ)&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="160" x="300" y="620" as="geometry" />
         </mxCell>
         <mxCell id="fn8eFHxvwu5Y4DV0IQaD-25" edge="1" parent="1" source="fn8eFHxvwu5Y4DV0IQaD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" target="fn8eFHxvwu5Y4DV0IQaD-24" value="">
@@ -62,7 +62,10 @@
           <mxGeometry height="60" width="120" x="560" y="380" as="geometry" />
         </mxCell>
         <mxCell id="fn8eFHxvwu5Y4DV0IQaD-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;CAT6/6A&lt;/div&gt;&lt;div&gt;新規購入予定&lt;/div&gt;&lt;div&gt;長さ未定&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="110" x="460" y="510" as="geometry" />
+          <mxGeometry height="100" width="110" x="460" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="n761MLVwASxF23iQf95s-3" edge="1" parent="1" source="fn8eFHxvwu5Y4DV0IQaD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 4 1 4;" target="n761MLVwASxF23iQf95s-2" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fn8eFHxvwu5Y4DV0IQaD-24" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="MacBook" vertex="1">
           <mxGeometry height="140" width="120" x="840" y="340" as="geometry" />
@@ -73,11 +76,45 @@
             <mxPoint x="830" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="n761MLVwASxF23iQf95s-4" edge="1" parent="1" source="fn8eFHxvwu5Y4DV0IQaD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 4 1 4;" target="n761MLVwASxF23iQf95s-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="775" y="260" />
+              <mxPoint x="1000" y="260" />
+              <mxPoint x="1000" y="410" />
+            </Array>
+            <mxPoint x="775" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fn8eFHxvwu5Y4DV0IQaD-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;USB Hub&lt;/div&gt;&lt;div&gt;2.5G Ethernet&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="70" x="740" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="fn8eFHxvwu5Y4DV0IQaD-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;MacBook機種未定&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;入り: 2.5G USB LAN&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ソフトウェア: OBS Studio&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;出力: HDMI&lt;/div&gt;&lt;div&gt;→MBAの場合: ハブ経由出力&lt;/div&gt;&lt;div&gt;MBPの場合: 本体直出力&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="190" width="200" x="800" y="520" as="geometry" />
+        <mxCell id="fn8eFHxvwu5Y4DV0IQaD-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;MacBook機種未定&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;入り: 2.5G USB Type-C LAN&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ソフトウェア: OBS Studio&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;出力: HDMI&lt;/div&gt;&lt;div&gt;→MBAの場合: ハブ経由出力&lt;/div&gt;&lt;div&gt;MBPの場合: 本体直出力&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="200" x="800" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="n761MLVwASxF23iQf95s-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;ダミーネットをどうするか&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="565" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="n761MLVwASxF23iQf95s-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="プロジェクター" vertex="1">
+          <mxGeometry height="80" width="120" x="1040" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="n761MLVwASxF23iQf95s-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CAT6/6A" vertex="1">
+          <mxGeometry height="30" width="60" x="680" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="n761MLVwASxF23iQf95s-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HDMI" vertex="1">
+          <mxGeometry height="30" width="60" x="970" y="414" as="geometry" />
+        </mxCell>
+        <mxCell id="n761MLVwASxF23iQf95s-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HDMI" vertex="1">
+          <mxGeometry height="30" width="60" x="850" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="n761MLVwASxF23iQf95s-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="←発熱が心配" vertex="1">
+          <mxGeometry height="30" width="80" x="980" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="n761MLVwASxF23iQf95s-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;RTX1300のRJ45ポート(1000BASE-T)では最高スループットを出せない&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;スイッチを経由する構成が推奨されるが機材が増えるのはよくない&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="130" x="585" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="n761MLVwASxF23iQf95s-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="機種について未定" vertex="1">
+          <mxGeometry height="30" width="100" x="1050" y="455" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
