@@ -82,9 +82,6 @@
         <mxCell id="n761MLVwASxF23iQf95s-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HDMI" vertex="1">
           <mxGeometry height="30" width="60" x="970" y="414" as="geometry" />
         </mxCell>
-        <mxCell id="n761MLVwASxF23iQf95s-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;←発熱が心配、というかスループット大丈夫か&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ちなみに10Gの場合SFP+は選択肢にないらしい,,,&lt;br&gt;10GBASE-T発熱怖いんですけど！&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="160" x="980" y="540" as="geometry" />
-        </mxCell>
         <mxCell id="n761MLVwASxF23iQf95s-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="機種について未定" vertex="1">
           <mxGeometry height="30" width="100" x="1050" y="455" as="geometry" />
         </mxCell>
