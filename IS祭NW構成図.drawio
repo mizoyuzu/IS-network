@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="ページ-1" id="2jIfwE_WvYB9KphAebi7">
-    <mxGraphModel dx="1410" dy="1079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="全体構成図" id="2jIfwE_WvYB9KphAebi7">
+    <mxGraphModel dx="1501" dy="1519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,6 +135,153 @@
         </mxCell>
         <mxCell id="RkjHUIAmrXIj5mheVrTZ-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10G" vertex="1">
           <mxGeometry height="20" width="30" x="630" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-f_K8loPEsKhhz2rgNLs" name="有線構成図">
+    <mxGraphModel dx="1168" dy="1181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;YAMAHA&lt;/div&gt;&lt;div&gt;WLX322&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="80" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;YAMAHA&lt;/div&gt;&lt;div&gt;WLX323&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="80" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;YAMAHA&lt;/div&gt;&lt;div&gt;WLX322&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="80" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;YAMAHA&lt;/div&gt;&lt;div&gt;RTX1300&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="346" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;USB Hub&lt;/div&gt;&lt;div&gt;2.5G Ethernet&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="546" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-6" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;YAMAHA&lt;/div&gt;&lt;div&gt;&amp;nbsp;SWX2322P-16NT&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="120" x="346" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=4;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="296" y="180" />
+              <mxPoint x="296" y="205" />
+            </Array>
+            <mxPoint x="240" y="180" as="sourcePoint" />
+            <mxPoint x="346.0000000000002" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-8" connectable="0" parent="OMSqnQ1CM_7QnsJfTgdv-7" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="CAT 6" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-9" connectable="0" parent="OMSqnQ1CM_7QnsJfTgdv-7" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" value="2.5G PoE" vertex="1">
+          <mxGeometry relative="1" x="-1" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-10" connectable="0" parent="OMSqnQ1CM_7QnsJfTgdv-7" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" value="2.5G LINK" vertex="1">
+          <mxGeometry relative="1" x="1" as="geometry">
+            <mxPoint y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-11" edge="1" parent="1" source="OMSqnQ1CM_7QnsJfTgdv-6" style="shape=link;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="OMSqnQ1CM_7QnsJfTgdv-4" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+            <mxPoint x="500" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=4;" target="OMSqnQ1CM_7QnsJfTgdv-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="296" y="290" />
+              <mxPoint x="296" y="260" />
+            </Array>
+            <mxPoint x="240" y="290" as="sourcePoint" />
+            <mxPoint x="346.0000000000002" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-13" connectable="0" parent="OMSqnQ1CM_7QnsJfTgdv-12" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="CAT 6A" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-14" connectable="0" parent="OMSqnQ1CM_7QnsJfTgdv-12" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" value="2.5G PoE" vertex="1">
+          <mxGeometry relative="1" x="-1" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-15" connectable="0" parent="OMSqnQ1CM_7QnsJfTgdv-12" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" value="2.5G LINK" vertex="1">
+          <mxGeometry relative="1" x="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;USB Hub&lt;/div&gt;&lt;div&gt;1G Ethernet&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="546" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.78;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=4;entryPerimeter=0;" target="OMSqnQ1CM_7QnsJfTgdv-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="296" y="400" />
+              <mxPoint x="296" y="310.4100000000001" />
+            </Array>
+            <mxPoint x="240" y="399.98" as="sourcePoint" />
+            <mxPoint x="346.0000000000002" y="449.98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-18" connectable="0" parent="OMSqnQ1CM_7QnsJfTgdv-17" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="CAT 6" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-19" connectable="0" parent="OMSqnQ1CM_7QnsJfTgdv-17" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" value="2.5G PoE" vertex="1">
+          <mxGeometry relative="1" x="-1" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-20" connectable="0" parent="OMSqnQ1CM_7QnsJfTgdv-17" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" value="2.5G LINK" vertex="1">
+          <mxGeometry relative="1" x="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" target="OMSqnQ1CM_7QnsJfTgdv-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="466" y="210" as="sourcePoint" />
+            <mxPoint x="516" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="466" y="299.72" as="sourcePoint" />
+            <mxPoint x="546" y="299.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10G Cat6A" vertex="1">
+          <mxGeometry height="30" width="80" x="416" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-24" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="MacBook Pro" vertex="1">
+          <mxGeometry height="150" width="120" x="706" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="666" y="210" as="sourcePoint" />
+            <mxPoint x="706" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-26" edge="1" parent="1" source="OMSqnQ1CM_7QnsJfTgdv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.025;entryY=0.319;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="OMSqnQ1CM_7QnsJfTgdv-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="686" y="300" />
+              <mxPoint x="686" y="227.90999999999997" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;2.5G LINK&lt;/div&gt;&lt;div&gt;Cat6A&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="476" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;1G LINK&lt;/div&gt;&lt;div&gt;Cat5e&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="476" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LAG組まず" vertex="1">
+          <mxGeometry height="30" width="120" x="546" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="USB Type-C" vertex="1">
+          <mxGeometry height="30" width="70" x="656" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="OMSqnQ1CM_7QnsJfTgdv-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="有線構成図" vertex="1">
+          <mxGeometry height="40" width="100" x="80" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
