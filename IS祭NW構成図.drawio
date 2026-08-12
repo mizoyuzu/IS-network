@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="全体構成図" id="2jIfwE_WvYB9KphAebi7">
-    <mxGraphModel dx="1492" dy="1676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1328" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="fn8eFHxvwu5Y4DV0IQaD-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="iPhone (CS左)" vertex="1">
           <mxGeometry height="40" width="120" x="40" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="fn8eFHxvwu5Y4DV0IQaD-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;iPhone 合計10台&lt;/div&gt;&lt;div&gt;機種: 14Pro以上、無印15以上&lt;/div&gt;&lt;div&gt;(Wi-Fi 6E: 15Pro以上、無印16以上)&lt;/div&gt;&lt;div&gt;使用カメラアプリ: LM-Cams&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;コーデック:&lt;/div&gt;&lt;div&gt;&lt;b&gt;Full NDI&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;可能であればタリー(要確認)&lt;/div&gt;&lt;div&gt;→Full NDIでタリー確認済み&lt;/div&gt;" vertex="1">
+        <mxCell id="fn8eFHxvwu5Y4DV0IQaD-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;iPhone 合計10台&lt;/div&gt;&lt;div&gt;機種: 14Pro以上、無印15以上&lt;/div&gt;&lt;div&gt;(Wi-Fi 6E: 15Pro以上、無印16以上)&lt;/div&gt;&lt;div&gt;使用カメラアプリ: LM-Cams&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;コーデック:&lt;/div&gt;&lt;div&gt;&lt;b&gt;Full NDI&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;タリー付き" vertex="1">
           <mxGeometry height="190" width="200" x="40" y="580" as="geometry" />
         </mxCell>
         <mxCell id="fn8eFHxvwu5Y4DV0IQaD-12" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=2;dashed=1;startSize=11;" value="">
@@ -67,8 +67,8 @@
         <mxCell id="fn8eFHxvwu5Y4DV0IQaD-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;USB Hub&lt;/div&gt;&lt;div&gt;2.5G Ethernet&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="70" x="740" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="fn8eFHxvwu5Y4DV0IQaD-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;MacBook Pro (2023, M2 Max, 64GB)&lt;br&gt;e-tamayaさんより連絡&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;入力: 2.5G USB Type-C LAN&lt;br&gt;+1G USB Type-C LAN&lt;br&gt;(LAGではなく冗長)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ソフトウェア: OBS Studio&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;出力: HDMI&lt;/div&gt;" vertex="1">
-          <mxGeometry height="190" width="200" x="800" y="500" as="geometry" />
+        <mxCell id="fn8eFHxvwu5Y4DV0IQaD-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;MacBook Pro (2023, M2 Max, 64GB)&lt;br&gt;e-tamayaさんよりレンタル&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;入力: 2.5G USB Type-C LAN&lt;br&gt;+1G USB Type-C LAN&lt;br&gt;(LAGなし)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ソフトウェア: OBS Studio&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;出力: HDMI&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="200" x="800" y="500" as="geometry" />
         </mxCell>
         <mxCell id="n761MLVwASxF23iQf95s-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;ダミーネットをどうするか&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="565" y="440" as="geometry" />
@@ -133,11 +133,20 @@
         <mxCell id="RkjHUIAmrXIj5mheVrTZ-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10G" vertex="1">
           <mxGeometry height="20" width="30" x="630" y="360" as="geometry" />
         </mxCell>
+        <mxCell id="pMeNi_zrL9qTANnaEFPK-1" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=pipe;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="pMeNi_zrL9qTANnaEFPK-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="899.8" y="340" as="sourcePoint" />
+            <mxPoint x="899.8" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pMeNi_zrL9qTANnaEFPK-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="MacBook Air" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-f_K8loPEsKhhz2rgNLs" name="有線構成図">
-    <mxGraphModel dx="1168" dy="1181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="618" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,7 +182,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OMSqnQ1CM_7QnsJfTgdv-9" connectable="0" parent="OMSqnQ1CM_7QnsJfTgdv-7" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" value="2.5G PoE" vertex="1">
-          <mxGeometry relative="1" x="-1" as="geometry" />
+          <mxGeometry relative="1" x="-1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OMSqnQ1CM_7QnsJfTgdv-10" connectable="0" parent="OMSqnQ1CM_7QnsJfTgdv-7" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" value="2.5G LINK" vertex="1">
           <mxGeometry relative="1" x="1" as="geometry">
@@ -226,7 +237,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OMSqnQ1CM_7QnsJfTgdv-19" connectable="0" parent="OMSqnQ1CM_7QnsJfTgdv-17" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" value="2.5G PoE" vertex="1">
-          <mxGeometry relative="1" x="-1" as="geometry" />
+          <mxGeometry relative="1" x="-1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OMSqnQ1CM_7QnsJfTgdv-20" connectable="0" parent="OMSqnQ1CM_7QnsJfTgdv-17" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" value="2.5G LINK" vertex="1">
           <mxGeometry relative="1" x="1" as="geometry">
@@ -275,10 +288,19 @@
           <mxGeometry height="30" width="120" x="546" y="240" as="geometry" />
         </mxCell>
         <mxCell id="OMSqnQ1CM_7QnsJfTgdv-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="USB Type-C" vertex="1">
-          <mxGeometry height="30" width="70" x="656" y="340" as="geometry" />
+          <mxGeometry height="30" width="70" x="656" y="160" as="geometry" />
         </mxCell>
         <mxCell id="OMSqnQ1CM_7QnsJfTgdv-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="有線構成図" vertex="1">
           <mxGeometry height="40" width="100" x="80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-JLqlSi6iOwft2zNB3qJ-3" edge="1" parent="1" source="-JLqlSi6iOwft2zNB3qJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=pipe;endArrow=none;endFill=0;" target="OMSqnQ1CM_7QnsJfTgdv-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-JLqlSi6iOwft2zNB3qJ-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="MacBook Air" vertex="1">
+          <mxGeometry height="60" width="120" x="706" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="-JLqlSi6iOwft2zNB3qJ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Thunderbolt Bridge(後述)" vertex="1">
+          <mxGeometry height="30" width="80" x="670" y="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
