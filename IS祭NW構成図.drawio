@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="全体構成図" id="2jIfwE_WvYB9KphAebi7">
-    <mxGraphModel dx="1328" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1423" dy="1329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,8 @@
         <mxCell id="fn8eFHxvwu5Y4DV0IQaD-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="iPhone (CS左)" vertex="1">
           <mxGeometry height="40" width="120" x="40" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="fn8eFHxvwu5Y4DV0IQaD-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;iPhone 合計10台&lt;/div&gt;&lt;div&gt;機種: 14Pro以上、無印15以上&lt;/div&gt;&lt;div&gt;(Wi-Fi 6E: 15Pro以上、無印16以上)&lt;/div&gt;&lt;div&gt;使用カメラアプリ: LM-Cams&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;コーデック:&lt;/div&gt;&lt;div&gt;&lt;b&gt;Full NDI&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;タリー付き" vertex="1">
-          <mxGeometry height="190" width="200" x="40" y="580" as="geometry" />
+        <mxCell id="fn8eFHxvwu5Y4DV0IQaD-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;iPhone 合計10台&lt;/div&gt;&lt;div&gt;機種: 14Pro以上、無印15以上&lt;/div&gt;&lt;div&gt;(Wi-Fi 6E: 15Pro以上、無印16以上)&lt;/div&gt;&lt;div&gt;使用カメラアプリ: LM-Cams&lt;/div&gt;&lt;div&gt;プロトコル:&lt;/div&gt;&lt;div&gt;&lt;b&gt;Full NDI&lt;/b&gt;&lt;/div&gt;タリー付き" vertex="1">
+          <mxGeometry height="130" width="200" x="130" y="160" as="geometry" />
         </mxCell>
         <mxCell id="fn8eFHxvwu5Y4DV0IQaD-12" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=2;dashed=1;startSize=11;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -142,11 +142,14 @@
         <mxCell id="pMeNi_zrL9qTANnaEFPK-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="MacBook Air" vertex="1">
           <mxGeometry height="60" width="120" x="840" y="240" as="geometry" />
         </mxCell>
+        <mxCell id="V66lcWbV3zM9Fjh9Z3bP-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Thunerbolt Bridge" vertex="1">
+          <mxGeometry height="30" width="60" x="830" y="305" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-f_K8loPEsKhhz2rgNLs" name="有線構成図">
-    <mxGraphModel dx="618" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="857" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
